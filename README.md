@@ -1,1 +1,1 @@
-# blog.dev
+# blog
